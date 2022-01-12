@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  color:black;
+  font: 300 16px/22px "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+h1{
+  color:black;
+  text-align: center;
+}
+
+
+h2{
+  font: helvetica;
+  text-decoration: underline;
+}
+
+.name{
+  text-align: right;
+}
